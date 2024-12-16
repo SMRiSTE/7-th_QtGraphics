@@ -12,6 +12,8 @@ MainWindow::MainWindow(QWidget *parent)
     di = new Dialog(this);
     di->gl->addWidget(chartView);
 
+    Series = new QSplineSeries();
+
     connect(this, &MainWindow::ready, this, &MainWindow::ShowRes);
 }
 
@@ -19,6 +21,9 @@ MainWindow::~MainWindow()
 {
     delete ui;
     delete di;
+    delete Series;
+    delete chart;
+    delete chartView;
 }
 
 
@@ -225,7 +230,6 @@ void MainWindow::on_pb_start_clicked()
                                                 mins = FindMin(res);
                                                 DisplayResult(mins, maxs);
 
-                                                Series = new QSplineSeries();
                                                 Series->setName("graf");
 
                                                 for(int i = 0; i<1000; i++){
@@ -255,4 +259,18 @@ void MainWindow::ShowRes(){
     chartView->show();
 }
 
+
+
+void MainWindow::on_pb_clearResult_clicked()
+{
+    ui->te_Result->clear();
+
+    if (Series != nullptr) {
+        chart->removeSeries(Series);
+        delete Series;
+        Series = new QSplineSeries();
+    }
+
+    chartView->hide();
+}
 

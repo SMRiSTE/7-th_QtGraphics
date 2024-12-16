@@ -48,6 +48,7 @@ private slots:
 
 public slots:
     void ShowRes();
+    void on_pb_clearResult_clicked();
 
 signals:
     void ready();
