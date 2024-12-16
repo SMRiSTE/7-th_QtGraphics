@@ -1,5 +1,0 @@
-D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/CMakeFiles/PreGraphic.dir
-D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/CMakeFiles/edit_cache.dir
-D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/CMakeFiles/PreGraphic_autogen_timestamp_deps.dir
-D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/CMakeFiles/PreGraphic_autogen.dir
