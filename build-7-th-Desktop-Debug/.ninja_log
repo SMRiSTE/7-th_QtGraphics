@@ -1,0 +1,66 @@
+# ninja log v5
+23	4197	7559769057206575	PreGraphic_autogen/timestamp	d7488a90bdba4474
+23	4197	7559769057206575	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+23	4197	7559769057206575	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+23	4197	7559769057206575	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+4202	19731	7559769217422799	CMakeFiles/PreGraphic.dir/main.cpp.obj	bfb5c22778076c33
+4206	21055	7559769230849244	CMakeFiles/PreGraphic.dir/mainwindow.cpp.obj	cc611e37c6fabb46
+4197	19857	7559769218944710	CMakeFiles/PreGraphic.dir/PreGraphic_autogen/mocs_compilation.cpp.obj	9fa6e60d2956eb02
+21056	21771	7559769237952101	PreGraphic.exe	f37a12cf071f4e82
+22	1868	7559771357187219	PreGraphic_autogen/timestamp	d7488a90bdba4474
+22	1868	7559771357187219	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+22	1868	7559771357187219	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+22	1868	7559771357187219	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+1878	6705	7559771411036412	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+1869	16377	7559771507796449	CMakeFiles/PreGraphic.dir/PreGraphic_autogen/mocs_compilation.cpp.obj	9fa6e60d2956eb02
+26	4382	7559773998443874	PreGraphic_autogen/timestamp	d7488a90bdba4474
+26	4382	7559773998443874	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+26	4382	7559773998443874	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+26	4382	7559773998443874	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+4392	10488	7559774064791479	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+24	4220	7559774335211949	PreGraphic_autogen/timestamp	d7488a90bdba4474
+24	4220	7559774335211949	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+24	4220	7559774335211949	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+24	4220	7559774335211949	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+4230	11200	7559774410234541	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+4221	22459	7559774522997634	CMakeFiles/PreGraphic.dir/PreGraphic_autogen/mocs_compilation.cpp.obj	9fa6e60d2956eb02
+4225	22531	7559774523713919	CMakeFiles/PreGraphic.dir/main.cpp.obj	bfb5c22778076c33
+4235	23735	7559774535849117	CMakeFiles/PreGraphic.dir/mainwindow.cpp.obj	cc611e37c6fabb46
+23736	24488	7559774543307737	PreGraphic.exe	8a7128e1746a3c1
+36	4489	7559777833496614	PreGraphic_autogen/timestamp	d7488a90bdba4474
+36	4489	7559777833496614	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+36	4489	7559777833496614	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+36	4489	7559777833496614	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+4499	11647	7559777910251460	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+4489	20453	7559777999015018	CMakeFiles/PreGraphic.dir/main.cpp.obj	bfb5c22778076c33
+4494	20576	7559778000173058	CMakeFiles/PreGraphic.dir/PreGraphic_autogen/mocs_compilation.cpp.obj	9fa6e60d2956eb02
+28	939	7559778123414054	PreGraphic_autogen/timestamp	d7488a90bdba4474
+28	939	7559778123414054	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+28	939	7559778123414054	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+28	939	7559778123414054	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+1006	4924	7559778163333596	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+1011	13343	7559778247479385	CMakeFiles/PreGraphic.dir/mainwindow.cpp.obj	cc611e37c6fabb46
+13344	14118	7559778255130305	PreGraphic.exe	8a7128e1746a3c1
+22	4341	7559780766530269	PreGraphic_autogen/timestamp	d7488a90bdba4474
+22	4341	7559780766530269	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+22	4341	7559780766530269	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+22	4341	7559780766530269	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+4357	11288	7559780841405755	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+4341	22130	7559780950260481	CMakeFiles/PreGraphic.dir/main.cpp.obj	bfb5c22778076c33
+4347	22194	7559780950869681	CMakeFiles/PreGraphic.dir/PreGraphic_autogen/mocs_compilation.cpp.obj	9fa6e60d2956eb02
+4352	23497	7559780963951825	CMakeFiles/PreGraphic.dir/mainwindow.cpp.obj	cc611e37c6fabb46
+23498	24303	7559780971859682	PreGraphic.exe	8a7128e1746a3c1
+28	770	7559782415787227	PreGraphic_autogen/timestamp	d7488a90bdba4474
+28	770	7559782415787227	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+28	770	7559782415787227	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+28	770	7559782415787227	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+830	4729	7559782455450816	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+825	13022	7559782538422895	CMakeFiles/PreGraphic.dir/mainwindow.cpp.obj	cc611e37c6fabb46
+13023	13773	7559782545810684	PreGraphic.exe	8a7128e1746a3c1
+19	761	7560444903481342	PreGraphic_autogen/timestamp	d7488a90bdba4474
+19	761	7560444903481342	PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+19	761	7560444903481342	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/timestamp	d7488a90bdba4474
+19	761	7560444903481342	D:/NETO QT/7-th_QtGraphics/build-7-th-Desktop-Debug/PreGraphic_autogen/mocs_compilation.cpp	d7488a90bdba4474
+801	8808	7560444983934598	CMakeFiles/PreGraphic.dir/dialog.cpp.obj	f12a2090a673f6c0
+870	23525	7560445131110237	CMakeFiles/PreGraphic.dir/mainwindow.cpp.obj	cc611e37c6fabb46
+23526	24866	7560445144458170	PreGraphic.exe	8a7128e1746a3c1
